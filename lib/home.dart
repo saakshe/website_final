@@ -90,6 +90,10 @@ class _HomeState extends State<Home> {
           style:TextStyle(color: Color.fromARGB(255, 170, 165, 165),
           ),
           ),
+          Text('Github',
+          style:TextStyle(color: Color.fromARGB(255, 170, 165, 165),
+          ),
+          ),
             ],
           )
         ],
